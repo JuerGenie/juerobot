@@ -6,7 +6,7 @@
 
     <groupId>cn.juerwhang</groupId>
     <artifactId>juerobot</artifactId>
-    <version>alpha.1.7</version>
+    <version>alpha.1.8</version>
     <packaging>jar</packaging>
 
     <repositories>
