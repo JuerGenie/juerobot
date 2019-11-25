@@ -6,7 +6,7 @@ apply plugin: 'maven'
 apply plugin: 'maven-publish'
 
 group 'cn.juerwhang'
-version 'alpha.1.4'
+version 'alpha.1.5'
 def localMavenRepo = "file://${new File(System.getProperty("user.home"), ".m2/repository").absolutePath}"
 
 def ktorVersion = '1.2.5'
